@@ -1,10 +1,19 @@
-### Hi there 👋
+### 👋 1.HELLO WORLD 
+ I’m currently working on 🔭:
 
-- 🔭 I’m currently working on Ceph
-- 🌱 I’m currently learning English
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/ceph/ceph">
+  <img src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png" height="120px">
+</a>
+
+### 🌱 2.MY PROJECT
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=cflag)](https://github.com/locallocal/cflag)
+
+
+
+### ⚡ 3.MY STATUS
+[![locallocal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locallocal)](https://github.com/anuraghazra/github-readme-stats)
+
+[![locallocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=locallocal)](https://github.com/anuraghazra/github-readme-stats)
+
+
