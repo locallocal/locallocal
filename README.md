@@ -7,8 +7,8 @@
 
 ### 🌱 2.MY PROJECT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=cflag)](https://github.com/locallocal/cflag)
-
+[![Repo cflag Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=cflag)](https://github.com/locallocal/cflag) 
+[![Repo ccmd Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=ccmd)](https://github.com/locallocal/ccmd)
 
 
 ### ⚡ 3.MY STATUS
