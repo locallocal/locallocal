@@ -9,6 +9,7 @@
 
 [![Repo cflag Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=cflag)](https://github.com/locallocal/cflag) 
 [![Repo ccmd Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=ccmd)](https://github.com/locallocal/ccmd)
+[![Repo waadmin Card](https://github-readme-stats.vercel.app/api/pin/?username=locallocal&repo=waadmin)](https://github.com/locallocal/waadmin)
 
 
 ### ⚡ 3.MY STATUS
